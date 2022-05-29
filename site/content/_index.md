@@ -9,7 +9,7 @@ intro:
     heading: "Features"
     text: "Current Social Network Features are: About Me Page, Story Board Page, Messenger, Video Chat, Voice Call (VOIP), Push To Talk, Chat Rooms, Shared Web Cams with motion detection, Shared Files, Send A Person File and other features. Check out the source code from <a href="https://github.com/brettrjones-github/nolimitconnect.git">https://github.com/brettrjones-github/nolimitconnect.git</a> . Currently Requires Qt 6.3.0 and qcreator to compile for Linux and/or Android and Visual Studio 2019 if compiling for Windows. CMake builds are not yet available (see nolimitconnect/docs_for_building folder in project directory)"
 products:
-    - image: /img/service-group-host
+    - image: /img/service-group-host.svg
       text: "Personal Group Hosting."
     - image: /img/client-chat-room.svg
       text: "Personal Chat Room Hosting."
