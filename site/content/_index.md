@@ -17,6 +17,6 @@ products:
       text: "Personal Random Connect Hosting."
 values:
     heading: A Screen Snapshot
-    text: More snapshots to come as data to publish approches.
+    text: More snapshots to come as date to publish approches.
 ---
 
