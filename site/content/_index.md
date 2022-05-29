@@ -7,7 +7,7 @@ blurb:
     text: "No Limit Connect is free and designed with small and private networks in mind. Do you have an old cell phone with no cell service? You can set up a private or public social network right on your own device. Currently Supports Android, Windows, Ubuntu, Linux Mint"
 intro:
     heading: "Features"
-    text: "Current Social Network Features are: About Me Page, Story Board Page, Messenger, Video Chat, Voice Call (VOIP), Push To Talk, Chat Rooms, Shared Web Cams with motion detection, Shared Files, Send A Person File and other features. Check out the source code from https://github.com/brettrjones-github/nolimitconnect.git . Currently Requires Qt 6.3.0 and qcreator to compile for Linux and/or Android and Visual Studio 2019 if compiling for Windows. CMake builds are not yet available (see nolimitconnect/docs_for_building folder in project directory)"
+    text: "Current Social Network Features are: About Me Page, Story Board Page, Messenger, Video Chat, Voice Call (VOIP), Push To Talk, Chat Rooms, Shared Web Cams with motion detection, Shared Files, Send A Person File and other features. Check out the source code from <a href="https://github.com/brettrjones-github/nolimitconnect.git">https://github.com/brettrjones-github/nolimitconnect.git</a> . Currently Requires Qt 6.3.0 and qcreator to compile for Linux and/or Android and Visual Studio 2019 if compiling for Windows. CMake builds are not yet available (see nolimitconnect/docs_for_building folder in project directory)"
 products:
     - image: /img/service-group-host
       text: "Personal Group Hosting."
