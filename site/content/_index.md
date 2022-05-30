@@ -13,6 +13,8 @@ products:
       text: "Personal Group Hosting."
     - image: /img/client-chat-room.svg
       text: "Personal Chat Room Hosting."
+    - image: /img/client-random-connect.svg
+      text: "Personal Random Connect Hosting."
 values:
     heading: A Screen Snapshot
     text: More snapshots to come as date to publish approches.
